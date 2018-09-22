@@ -1,11 +1,16 @@
 _repo: Seitseman-Titanic-novelleja_55913
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kallas, Aino Krohn
     gutenberg_agent_id: '48577'
     url: http://www.gutenberg.org/2009/agents/48577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55913#Seitseman-Titanic-novelleja
 gutenberg_issued: '2017-11-08'
 gutenberg_type: Text
 identifiers:
